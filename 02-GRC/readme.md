@@ -104,11 +104,7 @@ These resources are provided as optional, recommended resources to supplement th
 
 ---
 
-### Unit 2: Homework Assignment
 
-This unit's homework assignment can be accessed here: 
-
-- [GRC Homework File](../../2-Homework/02-GRC/Readme.md)
 
 ### Going Forward
 
