@@ -170,9 +170,6 @@ Note the following examples:
 
 - [Activity File: Weighing Security and Business Objectives](Activities/02_Weighing_Security/Unsolved/Readme.md)
 
-### 03. Activity Review: Weighing Security and Business Objectives 
-
-- [Solution Guide: Weighing Security and Business Objectives](Activities/02_Weighing_Security/SOLVED/Readme.md)
 
 ### 04. Security Culture Framework 
 
@@ -282,9 +279,6 @@ The details of this plan will vary for every situation. However, the high-level 
 
 - [Activity File: Security Culture Framework - Part 1](Activities/05_Sec_Culture_Part_1/Readme.md)
 
-### 06. Activity Review: Security Culture Framework - Part 1  
-
-- [Solution Guide: Security Culture Framework - Part 1](Activities/05_Sec_Culture_Part_1/SOLVED/Readme.md)
 
 ### 07. Break
 
@@ -351,8 +345,6 @@ The company can take different approaches if the SCF Team doesn't reach their ta
 - [Activity File: Security Culture Framework - Part 2](Activities/09_Sec_Culture_Part_2/Unsolved/Readme.md)
 
 
-### 10. Activity Review: Security Culture Framework - Part 2
-- [Solution Guide: Security Culture Framework - Part 2](Activities/09_Sec_Culture_Part_2/SOLVED/Readme.md)
 
 ### 11. Security Controls
 
@@ -452,9 +444,6 @@ Controlling access often also implies tracking identity, as seen with keycards. 
 - [Activity File: Implementing Security Controls](Activities/12_Sec_Controls/Unsolved/Readme.md)
 
 
-### 13. Activity Review: Implementing Security Controls 
-
-- [Solution Guide: Implementing Security Controls](Activities/12_Sec_Controls/SOLVED/Readme.md)
 
 ### 14. Wrap-Up and Summary
 
