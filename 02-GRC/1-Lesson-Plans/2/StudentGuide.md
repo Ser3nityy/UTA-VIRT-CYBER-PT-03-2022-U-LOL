@@ -191,7 +191,7 @@ Finally, analysts evaluate the system for ways malicious attackers can deliver t
 
 ### 04. Activity Review: Threat Modeling Steps 1-4 
 
-  - To be added after class. 
+- [Solution Guide: Threat Modeling Steps 1-4](Activities/03_Threat_Modeling/Solved/README.md)
 
 ### 05. Risk Analysis 
 
@@ -399,7 +399,7 @@ Risk analysts typically use spreadsheets to automate the calculation of these me
 
 ### 08. Activity Review: Threat Modeling Step 5: Risk Analysis 
 
-  - To be added after class. 
+- [Solution Guide: Threat Modeling Step 5: Risk Analysis](https://docs.google.com/spreadsheets/d/1v1QMihD0Y8C9bBFIFmdlZ9vIWQ0obubkHTK10KchteU/edit#gid=1384626883)
 
 
 ### 09. Mitigating Risk 
@@ -481,8 +481,7 @@ Some example controls for this problem:
 - [Activity File: Threat Modeling Step 6: Mitigating Risk](Activities/10_Mitigating_Risk/Unsolved/README.md)
 
 ### 11. Activity Review: Threat Modeling Step 6: Mitigating Risk
- 
-  - To be added after class. 
+ - [Solution Guide: Threat Modeling Step 6: Mitigating Risk](Activities/10_Mitigating_Risk/Solved/README.md)
 
 ---
 
