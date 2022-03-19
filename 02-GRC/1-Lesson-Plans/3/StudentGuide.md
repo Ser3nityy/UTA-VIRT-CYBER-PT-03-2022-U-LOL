@@ -19,6 +19,8 @@ By the end of this class, you will be able to:
 The class slides are available on Google Drive here: [2.3 Slides](https://docs.google.com/presentation/d/1ZGr2tV0wk7rX7LDzq0bsiuBOaQVH-eZwFtLxkzFLWww/edit#slide=id.gcb76b091db_0_1141)
 
 
+### Time Tracker
+The time tracker is available on Google Drive here: [2.3 Time Tracker](https://docs.google.com/spreadsheets/d/1RKy_tQXA4UdF4pO0AD_N7AlMenfKAam9k2CbzY2olHY/edit#gid=1145703143)
 
 ---
 
@@ -148,7 +150,7 @@ Below is an example of a completed password policy:
 
 ### 04. Activity Review: Documenting Company Policies 
 
-- Added after class. 
+- [Solution Guide: Documenting Company Policies](./Activities/03_Documenting_Company_Policies/Solved/Readme.md)  
 
 ### 05. Managing Risk in IT Organizations
 
