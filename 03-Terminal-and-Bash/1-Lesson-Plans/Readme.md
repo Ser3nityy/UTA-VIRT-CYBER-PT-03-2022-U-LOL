@@ -113,7 +113,11 @@ These resources are provided as optional, recommended resources to supplement th
 
 ---
 
+### Unit #: Homework Assignment
 
+This unit's homework assignment can be viewed here: 
+
+- [Unit Homework File](../../2-Homework/03-Terminal-and-Bash)
 
 ### Looking Forward 
 
