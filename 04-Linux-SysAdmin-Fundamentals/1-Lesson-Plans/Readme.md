@@ -120,7 +120,7 @@ For more information about these Security+ domains, refer to the following resou
 
 You can access this unit's homework assignment here: 
 
-- [Unit Homework File](../../2-Homework/04-Linux-SysAdmin-Fundamentals)
+- [Unit Homework File](../2-Homework/)
 
 ### Looking Forward 
 

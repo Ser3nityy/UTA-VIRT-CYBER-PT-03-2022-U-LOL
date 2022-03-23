@@ -599,7 +599,7 @@ Scheduling programs to run at certain times is a topic for next week's class. Fo
 
 This week, you will practice all of the hardening steps you have learned this week, but on a new system. You will also be running a few new tools: `chkrootkit` and `lynis`.
 
-  - [Week 4 Homework: Linux SysAdmin Fundamentals](../../../2-Homework/04-Linux-SysAdmin-Fundamentals/Readme.md)
+  - [Week 4 Homework: Linux SysAdmin Fundamentals](../../2-Homework/Readme.md)
 
 
 ---

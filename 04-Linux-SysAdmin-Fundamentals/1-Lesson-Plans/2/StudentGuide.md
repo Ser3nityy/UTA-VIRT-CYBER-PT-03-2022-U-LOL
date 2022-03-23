@@ -782,7 +782,7 @@ Summary:
 ### 11. Activity Review: Users and Groups
 
 
-- [Solution Guide: Users and Groups](Activities/10_STU_Users_and_Groups/Solved/README.md)
+- [Solution Guide: Users and Groups](Activities/10_Users_and_Groups/Solved/README.md)
 
 
 ---

@@ -112,7 +112,7 @@ These resources are provided as optional, recommended resources to supplement th
 
 This unit's homework assignment can be viewed here: 
 
-- [Homework Assignment File](../../2-Homework/05-Archiving-and-Logging-Data/Readme.md)
+- [Homework Assignment File](../2-Homework/Readme.md)
 
 ### Looking Forward 
 

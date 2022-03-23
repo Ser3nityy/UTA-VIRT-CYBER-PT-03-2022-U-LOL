@@ -117,7 +117,7 @@ These resources are provided as optional, recommended resources to supplement th
 
 This unit's homework assignment can be viewed here: 
 
-- [Unit Homework File](../../2-Homework/03-Terminal-and-Bash)
+- [Unit Homework File](../2-Homework/Readme.md)
 
 ### Looking Forward 
 
