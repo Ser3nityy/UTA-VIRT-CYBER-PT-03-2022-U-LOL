@@ -7,7 +7,7 @@ Welcome to the University of Texas Cybersecurity Boot Camp. In this repo, you wi
 # Class Layout
 
 - The boot camp is made up of 24 modules. ([View Syllabus](https://bootcampspot.com/academicSyllabus))
-- Each module consists of three classes.
+- Each module consists of three classes. Also, referred to as sessions or lessons. 
 - Each module will have homework.
 - Homework is assigned during the third lesson of each module and is due the following week. 
     - Homework may not be announced, but exists for every lesson and is available in the same relative location for each module.
@@ -29,6 +29,8 @@ The classroom and curriculum will use four tools to provide the lessons. This li
     - [Homework](#homework)
   - [Zoom](#zoom)
   - [Slack](#slack)
+    - [Quick Start Usage Guide](#quick-start-usage-guide)
+    - [Downloads](#downloads)
 
 ## Bootcamp Spot
 
@@ -164,6 +166,12 @@ Used for classroom sessions.
 ## Slack
 
 Used for classroom chats and sharing of session resources. 
+
+### Quick Start Usage Guide
+
+- <https://slack.com/help/articles/360059928654-How-to-use-Slack--your-quick-start-guide>
+
+### Downloads
 
 - https://slack.com/downloads/windows
 - https://slack.com/help/articles/207677868-Download-Slack-for-Mac
