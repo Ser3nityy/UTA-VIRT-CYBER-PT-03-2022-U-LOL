@@ -2,7 +2,7 @@
 
 Welcome to the University of Texas Cybersecurity Boot Camp. In this repo, you will find your homework and class lessons. 
 
-[**Class recordings can be viewed here.**](./recordings.md)
+
 
 **NOTE: for Bootcamp Spot links you may have to log in and select your cohort then click the link in this document again to get to the anticipated location.**
 
